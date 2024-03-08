@@ -9,11 +9,11 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Fábio Wnuk Hollerbach Klier ](https://github.com/Calanguitinho)
+* [Jean Pedro Santos Lima ](https://github.com/SHUMEIK3R)
+* [João Pedro Oliveira Dioro ](https://github.com/JPODiorio)
+* [Miguel dos Santos Ferreira Rodrigues] (https://github.com/MiguelStFR).
+* [Rubens Henrique Gomes de Freitas)] (https://github.com/Rubens-Henrique).
 
 ## Professor responsável
 
