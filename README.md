@@ -12,8 +12,8 @@
 * [Fábio Wnuk Hollerbach Klier ](https://github.com/Calanguitinho)
 * [Jean Pedro Santos Lima ](https://github.com/SHUMEIK3R)
 * [João Pedro Oliveira Dioro ](https://github.com/JPODiorio)
-* [Miguel dos Santos Ferreira Rodrigues] (https://github.com/MiguelStFR).
-* [Rubens Henrique Gomes de Freitas)] (https://github.com/Rubens-Henrique).
+* [Miguel dos Santos Ferreira Rodrigues](https://github.com/MiguelStFR).
+* [Rubens Henrique Gomes de Freitas)](https://github.com/Rubens-Henrique).
 
 ## Professor responsável
 
