@@ -162,39 +162,28 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+  Estima-se que o projeto custe cerca de R$20000,00 (20 mil reais). O valor está distribuído na mão de obra para desenvolver o software do sistema, na instalação dele nas máquinas do cliente, na compra de novas câmeras para aumentar o alcance do sistema, na montagem do sistema, no pacote office para tabelar dados e no treinamento para usar o sistema.
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Item de Custo           |Qtd. horas | Valor / hora | Valor total  | Descrição   
+|                         |           |              |              |  
+| Recursos Humanos        | 560 horas |   R$ 15,00   |  R$ 8400,00  | Desenvolvimento do software e instalação das câmeras.
+| Hardware                |  8 horas  |   R$ 1000,00 |  R$ 8000,00  | Compra das câmeras.            
+| Serviços de Rede        | 10 horas  |   R$ 300,00  |  R$ 3000,00  | Montagem.            
+| Hospedagem e Nuvem      |     -     |       -      |       -      |    -        
+| Software de terceiros   |     -     |       -      |  R$ 150,00   | Licença do pacote office.            
+| Serviços e treinamento  |  6 horas  |   R$ 10,00   |  R$ 60,00    | Mostrar o funcionamento do sistema.          
+| **Total Geral**         | 584 horas |   R$ 1315,00 |  R$ 19550,00 |    -        
 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Estima-se que o projeto seja concluído até o fim do primeiro semestre de 2024. Desde o desenvolvimento do software até a instalação de todo o equipamento.
 
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
+> Prazo Previsto: 560 horas. 
+> Início:   18/03/2024
+> Término:  01/07/2024 
 
 # Metodologia
 
