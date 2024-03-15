@@ -167,7 +167,7 @@ A tabela a seguir apresenta as restrições do projeto.
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo           |Qtd. horas | Valor / hora | Valor total  | Descrição                                            |
-|                         |           |              |              |                                                      |
+|-------------------------|-----------|--------------|--------------|------------------------------------------------------|
 | Recursos Humanos        | 560 horas |   R$ 15,00   |  R$ 8400,00  | Desenvolvimento do software e instalação das câmeras.|
 | Hardware                |  8 horas  |   R$ 1000,00 |  R$ 8000,00  | Compra das câmeras.                                  |
 | Serviços de Rede        | 10 horas  |   R$ 300,00  |  R$ 3000,00  | Montagem.                                            |
