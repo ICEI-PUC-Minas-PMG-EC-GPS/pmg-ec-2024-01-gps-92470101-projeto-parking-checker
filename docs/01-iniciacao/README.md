@@ -166,15 +166,15 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo           |Qtd. horas | Valor / hora | Valor total  | Descrição   
-|                         |           |              |              |  
-| Recursos Humanos        | 560 horas |   R$ 15,00   |  R$ 8400,00  | Desenvolvimento do software e instalação das câmeras.
-| Hardware                |  8 horas  |   R$ 1000,00 |  R$ 8000,00  | Compra das câmeras.            
-| Serviços de Rede        | 10 horas  |   R$ 300,00  |  R$ 3000,00  | Montagem.            
-| Hospedagem e Nuvem      |     -     |       -      |       -      |    -        
-| Software de terceiros   |     -     |       -      |  R$ 150,00   | Licença do pacote office.            
-| Serviços e treinamento  |  6 horas  |   R$ 10,00   |  R$ 60,00    | Mostrar o funcionamento do sistema.          
-| **Total Geral**         | 584 horas |   R$ 1315,00 |  R$ 19550,00 |    -        
+| Item de Custo           |Qtd. horas | Valor / hora | Valor total  | Descrição                                            |
+|                         |           |              |              |                                                      |
+| Recursos Humanos        | 560 horas |   R$ 15,00   |  R$ 8400,00  | Desenvolvimento do software e instalação das câmeras.|
+| Hardware                |  8 horas  |   R$ 1000,00 |  R$ 8000,00  | Compra das câmeras.                                  |
+| Serviços de Rede        | 10 horas  |   R$ 300,00  |  R$ 3000,00  | Montagem.                                            |
+| Hospedagem e Nuvem      |     -     |       -      |       -      |    -                                                 |
+| Software de terceiros   |     -     |       -      |  R$ 150,00   | Licença do pacote office.                            |
+| Serviços e treinamento  |  6 horas  |   R$ 10,00   |  R$ 60,00    | Mostrar o funcionamento do sistema.                  | 
+| **Total Geral**         | 584 horas |   R$ 1315,00 |  R$ 19550,00 |    -                                                 |
 
 
 ## Estimativa de Prazo
