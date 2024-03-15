@@ -35,8 +35,10 @@
 > Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
 
 1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
-2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
-3. ....
+2. [Template Ata Reuniao (2).pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621645/Template.Ata.Reuniao.2.pdf)
+3. [Template Ata Reuniao 8-03-2024 refinada.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621644/Template.Ata.Reuniao.8-03-2024.refinada.pdf)
+4. [Template Ata Reuniao 15-03 refinada.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621640/Template.Ata.Reuniao.15-03.refinada.pdf)
+
 
 # Relatórios de Desempenho
 
@@ -56,7 +58,8 @@
 
 ......  ATUALIZE AS IMAGENS MENSALMENTE ......
 
-> Os insights do repositório indicam a quantidade de commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
+> Os insights do repositório indicam a quantidade de[Template Ata Reuniao 15-03.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621639/Template.Ata.Reuniao.15-03.pdf)
+ commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
