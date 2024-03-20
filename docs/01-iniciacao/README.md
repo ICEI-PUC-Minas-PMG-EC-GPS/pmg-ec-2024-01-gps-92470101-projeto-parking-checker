@@ -35,6 +35,12 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+O que motivou a criação do projeto foi um problema que é recorrente em estabelecimentos , sejam eles públicos ou privados, é a dificuldade do controle de fluxo de veículos nos estacionamentos,  tal carência de monitoramento pode resultar
+em complicações para clientes , como a perca de tempo para estacionar, tempo o qual o cliente poderia estar realizando outras atividades, resultando em prejuízos diretos a empresas também, caso elas queiram que o cliente
+passe tempo consumindo.
+Ademais,Há também um outro problema que merece atenção, é a proteção dos indivíduos e sua identificação, para garantir uma maior segurança e confiabilidade no local, afinal, ninguém gostaria de frequentar, trabalhar, em
+um estabelecimento desprotegido .
+
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
 > Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
