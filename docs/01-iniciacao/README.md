@@ -53,10 +53,13 @@ um estabelecimento desprotegido .
 
 **Objetivo especíico** :  
 1-Agilizar o  fluxo de veículos , identificando as vagas que já estão ocupadas no estacionamento e fornecendo a localização de vagas livres. 
+
 2-Melhorar a orgarnizaçãoe e gestão dos estacionamentos, fornecendo dados dos horários mais lotados, as vagas mais disputadas, entre outras informações 
 que permitam os administradores tomarem medidas para a melhoria.
+
 3-Fornecer mais segurança a determinados estabelecimentos,através  a identificão cada condutor através das placas dos veículos estacionados, possível devido a um cadastro prévio, permitindo localizar 
 indivíduos regulares ou suspeitos.
+
 4-Fornecer uma alta qualidade de imagem para lidar com roubos, confusões, furtos, auxiliando os órgãos de segurança em seus trabalhos .
 
 > Aqui você deve descrever os objetivos do trabalho.
