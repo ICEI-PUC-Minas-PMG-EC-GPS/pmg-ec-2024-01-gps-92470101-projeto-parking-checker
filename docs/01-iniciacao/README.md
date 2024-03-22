@@ -72,14 +72,30 @@ indivíduos regulares ou suspeitos.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Sistema de Vigilância e Monitoramento: Será implementado um sistema de vigilância com câmeras de alta resolução e tecnologia de reconhecimento de placas de veículos para monitorar o estacionamento do Minas Shopping.
+
+2- Inteligência Artificial e Análise de Dados: Utilização de algoritmos de inteligência artificial para processamento de imagens, identificação de vagas livres, análise de padrões de ocupação e geração de relatórios gerenciais.
+
+3- Software de Gestão de Estacionamento: Desenvolvimento de um software dedicado à gestão do estacionamento, incluindo informações sobre vagas disponíveis, horários de pico, histórico de ocupação e cadastro de condutores.
+
+4- Integração com Órgãos de Segurança: Integração do sistema de vigilância com órgãos de segurança pública para auxiliar em investigações e identificação de eventos suspeitos.
+
+5- Segurança de Dados: Implementação de protocolos de segurança robustos para proteger os dados dos usuários, garantindo a privacidade e integridade das informações.
 
 > Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
 realizar as especificações do projeto.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Eficiência Operacional: O sistema deve agilizar o fluxo de veículos, reduzindo o tempo de busca por vagas e melhorando a organização do estacionamento.
+
+2- Satisfação do Cliente: Os clientes devem perceber uma melhoria significativa na experiência de estacionamento, com maior facilidade para encontrar vagas e menor tempo de espera.
+
+3- Segurança Aprimorada: A identificação de condutores e veículos, juntamente com a alta qualidade das imagens fornecidas, deve contribuir para a segurança dos frequentadores do shopping e dos veículos estacionados.
+
+4- Gestão Estratégica: Os relatórios gerados pelo sistema devem oferecer insights úteis para os administradores do estacionamento, permitindo a tomada de decisões mais assertivas para melhorar a gestão do local.
+
+5- Conformidade e Privacidade: O sistema deve estar em conformidade com as regulamentações de proteção de dados e garantir a privacidade das informações dos usuários, evitando o uso indevido das mesmas.
 
 > Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
