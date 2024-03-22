@@ -191,9 +191,36 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+**Equipe:**
+
+
+Fábio Wnuk Hollerbach Klier - Influência: Alta - Apoiador
+
+Jean Pedro Santos Lima - Influência: Média - Apoiador
+
+Rubens Henrique Gomes de Freitas - Influência: Alta - Apoiador
+
+Miguel dos Santos Ferreira Rodrigues - Influência: Alta - Apoiador
+
+João Pedro Oliveira Diorio: Influência: Alta - Apoiador
+
+
+**Clientes:**
+
+
+Agências de Shopping - Influência: Baixa
+
+Empresas de Pesquisa - Influência: Baixa
+
+Agências de Shows e Eventos - Influência: Baixa
+
+
+**Resistentes:**
+
+
+Empresas de Segurança Privada - Influência: Média - Rival
+
+Sindicati de Trabalhadores de Segurança - Influência: Média - Resistente
 
 # Estimativa de Custo e Prazo
 
