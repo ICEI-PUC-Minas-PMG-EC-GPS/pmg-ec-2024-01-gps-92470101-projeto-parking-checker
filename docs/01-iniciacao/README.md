@@ -242,8 +242,20 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+João Pedro Oliveira Diorio -> Project Owner: 
+  Representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto.
+
+Fábio Wnuk Hollerbach Klier -> Gerente de Projeto: 
+  Responsável por planejar, executar e coordenar todas as atividades do projeto.
+
+Jean Pedro Santos Lima -> Líder de QA: 
+  Responsável por implementar e supervisionar os processos de testes e controle de qualidade do produto.
+
+Rubens Henrique Gomes de Freitas -> Analista de Desenvolvimento Líder: 
+  Responsável por guiar a equipe de desenvolvimento do projeto, definir estratégias, tomar decisões importantes e garantir que o produto atenda às necessidades      dos clientes e do mercado.
+
+Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder: 
+  Responsável pela análise do problema dos usuários e gestores do negócio, pela definição das necessidades dos mesmos, das características funcionais e não          funcionais do produto, pela identificação, organização, documentação e gerência das mudanças nos requisitos.
 
 ## Ferramentas
 
