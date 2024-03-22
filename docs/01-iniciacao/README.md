@@ -94,6 +94,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas      |
+|Administrador       | Procurar por placa                 | Identificar o condutor do veículo    |
 |Chefe de Marketing  |Avaliar e dar feedback do aplicativo| Saber se o aplicativo agrada ao público     |
 |Designer            | Acesso ao layout do aplicativo     | Criar uma interface chamativa e prática     |
 |Operador técnico    | Imagens em tempo real              | Monitorar o estacionamento                  |
@@ -101,15 +102,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Chefe de Segurança  |  Ver gravações antigas             | Identificar suspeitos ou problemas          |
 |Chefe de Segurança  |  Criptografia de dados             | Garantir a privacidade do usuário           |
 |Chefe de Segurança  |  Câmeras com infra-vermelho        |Garantir o funcinamento do sistema ao anoitecer|
-| Operador técnico   | Câmeras com baterias alternativa   | Garantir o funcionamento do sistema em black-out  |
+|Operador técnico   | Câmeras com baterias alternativa   | Garantir o funcionamento do sistema em black-out  |
 |Usuário do App      | Localizar meu veículo              | Encontrá-lo sem perder tempo                |
 |Usuário do App      | Visualização das normas e regulanmentos do sistema   | Conhecer como seus dados serão usados |
 |Usuário do App      | Alterar dados de Registro          | Corrigir  erros ou eventuais mudanças       |
 |Usuário do App      | Como usar                          | Aprender como usar o aplicativo             |
 |Usuário do App      | Contato com suporte                |Pedir ajuda ou relatar problemas             |
+|Usuário do App      | Vagas disponpiveis                  |Saber onde estará livre para estacionar      |
 |Operador logístico  | Registro de estatísticas           | Fornecer um relatório informativo           |
 |Logista             | Mapeamento do estacionamento       | Criar políticas para agilizar o fluxo de veículos  |
-|Chefe de BD         | Backup de Dados                    | Acesso à gravações antigas                  |
+|Chefe de BD         | Backup de Dados                    | Recuperar informações perdidas                |
+|Chefe de BD         | Deletar dados                      | Deletar gravações muito antigas         |
+  
 
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
