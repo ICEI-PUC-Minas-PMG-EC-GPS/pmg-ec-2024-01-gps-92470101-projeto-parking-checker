@@ -77,12 +77,48 @@
 
 # Cronograma do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+| **Planejamento do Projeto**                   | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
+| EAP                                           | 3 dias    |  x    |
+| Preencher matriz de responsabilidade          | 1 dia     |  x    |
+| Preencher escopo do projeto                   | 7 dias    |  x    |
+| Cronograma do projeto                         | 5 dias    |  x    |
+| Orçamento do projeto                          | 5 dias    |  x    |
+|-----------------------------------------------|-----------|-------|
+| **Planos de Gerenciamento**                   | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
+| Plano de comunicação                          | 1 dia     |  x    |
+| Plano de qualidade                            | 1 dia     |  x    |
+| Plano de risco                                | 1 dia     |  x    |
+| Plano de aquisição                            | 2 dias    |  x    |
+| Plano de gestão de RH                         | 2 dias    |  x    |
+| Marco: finalização do plano de gerenciamento  | 0,5 dia   |  x    |
+| Documentação                                  | 5 dias    |  x    |
+| Marco: finalização do planejamento do projeto | 0,5 dia   |  x    |
+|-----------------------------------------------|-----------|-------|
+| **Execução**                                  | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
+| Interface dos sistemas                        | 10 dias   |  x    |
+| **Modelagem da solução**                      | 15,5 dias |  x    |
+|   Arquitetura da solução                      | 10 dias   |  x    |
+|   Diagrama de classes                         | 5 dias    |  x    |
+|   Persistência de dados                       | 5 dias    |  x    |
+|   Marco: finalização da modelagem             | 0,5 dia   |  x    |
+| **Planejamento do Hardware**                  | 15,5 dias |  x    |
+|   Encomenda das peças                         | 5 dias    |  x    |
+|   Interligar hardware com sistemas            | 5 dias    |  x    |
+|   Teste de hardware                           | 5 dias    |  x    |
+|   Marco: fim do planejamento do hardware      | 5 dias    |  x    |
+| Marco: finalização da execução                | 0,5 dias  |  x    |
+|-----------------------------------------------|-----------|-------|
+| **Encerramento**                              | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
+| Instalação do hardware da empresa             | 3 dias    |  x    |
+| Treinamento dos funcionários                  | 3 dias    |  x    |
+| Termo de encerramento do projeto              | 1 dia     |  x    |
+| Lições aprendidas                             | 1 dia     |  x    |
+| Marco: fim do encerramento                    | 0,5 dia   |  x    |
 
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
 # Orçamento do Projeto
 
