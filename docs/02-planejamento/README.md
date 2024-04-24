@@ -78,6 +78,7 @@
 # Cronograma do Projeto
 
 | **Planejamento do Projeto**                   | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
 | EAP                                           | 3 dias    |  x    |
 | Preencher matriz de responsabilidade          | 1 dia     |  x    |
 | Preencher escopo do projeto                   | 7 dias    |  x    |
