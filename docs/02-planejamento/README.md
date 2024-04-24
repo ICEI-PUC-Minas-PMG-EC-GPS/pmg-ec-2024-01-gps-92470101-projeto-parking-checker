@@ -84,7 +84,9 @@
 | Preencher escopo do projeto                   | 7 dias    |  x    |
 | Cronograma do projeto                         | 5 dias    |  x    |
 | Orçamento do projeto                          | 5 dias    |  x    |
-|       **Planos de Gerenciamento**             | Tempo     | Data  |
+
+| **Planos de Gerenciamento**                   | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
 | Plano de comunicação                          | 1 dia     |  x    |
 | Plano de qualidade                            | 1 dia     |  x    |
 | Plano de risco                                | 1 dia     |  x    |
@@ -93,7 +95,9 @@
 | Marco: finalização do plano de gerenciamento  | 0,5 dia   |  x    |
 | Documentação                                  | 5 dias    |  x    |
 | Marco: finalização do planejamento do projeto | 0,5 dia   |  x    |
-|       **Execução**                            | Tempo     | Data  |
+
+| **Execução**                                  | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
 | Interface dos sistemas                        | 10 dias   |  x    |
 | **Modelagem da solução**                      | 15,5 dias |  x    |
 |   Arquitetura da solução                      | 10 dias   |  x    |
@@ -106,7 +110,9 @@
 |   Teste de hardware                           | 5 dias    |  x    |
 |   Marco: fim do planejamento do hardware      | 5 dias    |  x    |
 | Marco: finalização da execução                | 0,5 dias  |  x    |
-|        **Encerramento**                       | Tempo     | Data  |
+
+| **Encerramento**                              | Tempo     | Data  |
+|-----------------------------------------------|-----------|-------|
 | Instalação do hardware da empresa             | 3 dias    |  x    |
 | Treinamento dos funcionários                  | 3 dias    |  x    |
 | Termo de encerramento do projeto              | 1 dia     |  x    |
