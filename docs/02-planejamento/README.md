@@ -77,47 +77,47 @@
 
 # Cronograma do Projeto
 
-| **Planejamento do Projeto**                   | Tempo     | Data  |
-|-----------------------------------------------|-----------|-------|
-| EAP                                           | 3 dias    |  x    |
-| Preencher matriz de responsabilidade          | 1 dia     |  x    |
-| Preencher escopo do projeto                   | 7 dias    |  x    |
-| Cronograma do projeto                         | 5 dias    |  x    |
-| Orçamento do projeto                          | 5 dias    |  x    |
+| **Planejamento do Projeto**                   | Tempo     | Data de Início   | Data de Término  | ID | Predecessores |
+|-----------------------------------------------|-----------|------------------|------------------|----|---------------|
+| EAP                                           | 3 dias    | 01/03/2024 08:30 | 06/03/2024 08:30 | 02 |      --       |
+| Preencher matriz de responsabilidade          | 1 dia     | 06/03/2024 08:00 | 06/03/2024 17:00 | 03 |      02       |
+| Preencher escopo do projeto                   | 7 dias    | 07/03/2024 08:00 | 15/03/2024 17:00 | 04 |      03       |
+| Cronograma do projeto                         | 5 dias    | 18/03/2024 08:00 | 22/03/2024 17:00 | 05 |      04       |
+| Orçamento do projeto                          | 5 dias    | 25/03/2024 08:00 | 29/03/2024 17:00 | 06 |      05       |
 
-| **Planos de Gerenciamento**                   | Tempo     | Data  |
-|-----------------------------------------------|-----------|-------|
-| Plano de comunicação                          | 1 dia     |  x    |
-| Plano de qualidade                            | 1 dia     |  x    |
-| Plano de risco                                | 1 dia     |  x    |
-| Plano de aquisição                            | 2 dias    |  x    |
-| Plano de gestão de RH                         | 2 dias    |  x    |
-| Marco: finalização do plano de gerenciamento  | 0,5 dia   |  x    |
-| Documentação                                  | 5 dias    |  x    |
-| Marco: finalização do planejamento do projeto | 0,5 dia   |  x    |
+| **Planos de Gerenciamento**                   | Tempo     | Data de Início   | Data de Término  | ID | Predecessores |
+|-----------------------------------------------|-----------|------------------|------------------|----|---------------|
+| Plano de comunicação                          | 1 dia     | 01/04/2024 08:00 | 01/04/2024 17:00 | 08 |      06       |
+| Plano de qualidade                            | 1 dia     | 01/04/2024 08:00 | 01/04/2024 17:00 | 09 |      06       |
+| Plano de risco                                | 1 dia     | 01/04/2024 08:00 | 01/04/2024 17:00 | 10 |      06       |
+| Plano de aquisição                            | 2 dias    | 02/04/2024 08:00 | 03/04/2024 17:00 | 11 |      10       |
+| Plano de gestão de RH                         | 2 dias    | 02/04/2024 08:00 | 03/04/2024 17:00 | 12 |      10       |
+| Marco: finalização do plano de gerenciamento  | 0,5 dia   | 04/04/2024 12:00 | 04/04/2024 17:00 | 13 |      12       |
+| Documentação                                  | 5 dias    | 05/04/2024 08:00 | 11/04/2024 17:00 | 14 |      13       |
+| Marco: finalização do planejamento do projeto | 0,5 dia   | 12/04/2024 08:00 | 12/04/2024 13:00 | 15 |      14       |
 
-| **Execução**                                  | Tempo     | Data  |
-|-----------------------------------------------|-----------|-------|
-| Interface dos sistemas                        | 10 dias   |  x    |
-| **Modelagem da solução**                      | 15,5 dias |  x    |
-|   Arquitetura da solução                      | 10 dias   |  x    |
-|   Diagrama de classes                         | 5 dias    |  x    |
-|   Persistência de dados                       | 5 dias    |  x    |
-|   Marco: finalização da modelagem             | 0,5 dia   |  x    |
-| **Planejamento do Hardware**                  | 15,5 dias |  x    |
-|   Encomenda das peças                         | 5 dias    |  x    |
-|   Interligar hardware com sistemas            | 5 dias    |  x    |
-|   Teste de hardware                           | 5 dias    |  x    |
-|   Marco: fim do planejamento do hardware      | 5 dias    |  x    |
-| Marco: finalização da execução                | 0,5 dias  |  x    |
+| **Execução**                                  | Tempo     | Data de Início   | Data de Término  | ID | Predecessores |
+|-----------------------------------------------|-----------|------------------|------------------|----|---------------|
+| Interface dos sistemas                        | 10 dias   | 12/04/2024 13:00 | 26/04/2024 13:00 | 17 |      15       |
+| **Modelagem da solução**                      | 15,5 dias | 12/04/2024 13:00 | 03/05/2024 17:00 | 18 |      --       |
+|   Arquitetura da solução                      | 10 dias   | 12/04/2024 13:00 | 26/04/2024 13:00 | 19 |      15       |
+|   Diagrama de classes                         | 5 dias    | 26/04/2024 13:00 | 03/05/2024 13:00 | 20 |      19       |
+|   Persistência de dados                       | 5 dias    | 26/04/2024 13:00 | 03/05/2024 13:00 | 21 |      19       |
+|   Marco: finalização da modelagem             | 0,5 dia   | 03/05/2024 13:00 | 03/05/2024 17:00 | 22 |      21       |
+| **Planejamento do Hardware**                  | 15,5 dias | 06/05/2024 08:00 | 27/05/2024 13:00 | 23 |      22       |
+|   Encomenda das peças                         | 5 dias    | 06/05/2024 08:00 | 10/05/2024 17:00 | 24 |      22       |
+|   Interligar hardware com sistemas            | 5 dias    | 12/05/2024 08:00 | 17/05/2024 17:00 | 25 |      24       |
+|   Teste de hardware                           | 5 dias    | 20/05/2024 08:00 | 24/05/2024 17:00 | 26 |      25       |
+|   Marco: fim do planejamento do hardware      | 5 dias    | 27/05/2024 08:00 | 27/05/2024 13:00 | 27 |      26       |
+| Marco: finalização da execução                | 0,5 dias  | 27/05/2024 13:00 | 27/05/2024 17:00 | 28 |      27       |
 
-| **Encerramento**                              | Tempo     | Data  |
-|-----------------------------------------------|-----------|-------|
-| Instalação do hardware da empresa             | 3 dias    |  x    |
-| Treinamento dos funcionários                  | 3 dias    |  x    |
-| Termo de encerramento do projeto              | 1 dia     |  x    |
-| Lições aprendidas                             | 1 dia     |  x    |
-| Marco: fim do encerramento                    | 0,5 dia   |  x    |
+| **Encerramento**                              | Tempo     | Data de Início   | Data de Término  | ID | Predecessores |
+|-----------------------------------------------|-----------|------------------|------------------|----|---------------|
+| Instalação do hardware da empresa             | 3 dias    | 28/05/2024 08:00 | 30/05/2024 17:00 | 30 |      28       |
+| Treinamento dos funcionários                  | 3 dias    | 28/05/2024 08:00 | 30/05/2024 17:00 | 31 |      28       |
+| Termo de encerramento do projeto              | 1 dia     | 31/05/2024 08:00 | 31/05/2024 17:00 | 32 |      31       |
+| Lições aprendidas                             | 1 dia     | 03/06/2024 08:00 | 03/06/2024 17:00 | 33 |      32       |
+| Marco: fim do encerramento                    | 0,5 dia   | 04/06/2024 08:00 | 04/06/2024 13:00 | 34 |      33       |
 
 
 # Orçamento do Projeto
