@@ -68,6 +68,7 @@
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
+
 ![Captura de tela 2024-04-05 203247](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/128429640/449e393f-3bfa-47c2-9734-e6a5d302deba)
 
 
