@@ -244,7 +244,6 @@ Sindicati de Trabalhadores de Segurança - Influência: Média - Resistente
 
   Estima-se que o projeto custe cerca de R$20000,00 (20 mil reais). O valor está distribuído na mão de obra para desenvolver o software do sistema, na instalação dele nas máquinas do cliente, na compra de novas câmeras para aumentar o alcance do sistema, na montagem do sistema, no pacote office para tabelar dados e no treinamento para usar o sistema.
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo           |Qtd. horas | Valor / hora | Valor total  | Descrição                                            |
 |-------------------------|-----------|--------------|--------------|------------------------------------------------------|
