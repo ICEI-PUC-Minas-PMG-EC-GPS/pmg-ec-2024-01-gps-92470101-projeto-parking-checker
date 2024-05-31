@@ -81,7 +81,8 @@
 
 
 **Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/7af02024-712c-43eb-bda8-7ad694c1f737)
+
 
 **Insight - Mês Junho**
 > Adicione aqui insights do mês de Junho.
