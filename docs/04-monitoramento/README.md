@@ -34,7 +34,7 @@
 > Atualize a lista de atas de reunião do projeto, com as atas entregues semanalmente na disciplina.
 > Mantenha um padrão de nomenclatura dos arquivos, utilizando as datas como referência.
 
-1. [ATA de Reunião 23-02 .pdf](artefatos/ata-reuniao_2024-02-23.pdf)
+1. [ATA Reunião 23-02 .pdf](artefatos/ata-reuniao_2024-02-23.pdf)
 2. [ATA Reuniao 01-03 .pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621645/Template.Ata.Reuniao.2.pdf)
 3. [ATA Reuniao 8-03 .pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621644/Template.Ata.Reuniao.8-03-2024.refinada.pdf)
 4. [ATA Reuniao 15-03 .pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621640/Template.Ata.Reuniao.15-03.refinada.pdf)
