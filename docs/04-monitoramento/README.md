@@ -46,8 +46,7 @@
 10. [ATA.Reuniao.10-05.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/15280793/ATA.Reuniao.10-05.pdf)
 11. [ATA Reunião 17-05.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/15358683/ATA.Reuniao.17-05.pdf)
 12. [ATA Reunião 24-05.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/15440625/ATA.Reuniao.24-05.pdf)
-
-
+13. [Ata 31-05.pdf](https://github.com/user-attachments/files/15519420/Ata.31-05.pdf)
 
 # Relatórios de Desempenho
 
