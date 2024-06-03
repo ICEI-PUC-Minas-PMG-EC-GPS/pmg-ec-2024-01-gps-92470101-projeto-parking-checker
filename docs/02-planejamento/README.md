@@ -120,15 +120,80 @@
 | Marco: fim do encerramento                    | 0,5 dia   | 04/06/2024 08:00 | 04/06/2024 13:00 | 34 |      33       |
 
 
-# Orçamento do Projeto
+# Orçamento do Projetos.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Salários:**
 
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+| Nome        | Tipo      | E-mail                     | Iniciais | Grupo                           | Unidades Max. | Taxa padrão   | Taxa de horas extras | Custo por uso | Acumular no | Calendário base |
+|-------------|-----------|----------------------------|----------|---------------------------------|---------------|---------------|----------------------|---------------|-------------| ----------------|
+| João        | Trabalho  | joão@gmail.com             | J        | Desenvolvedor Sênior            | 100%          | R$120,00/hora | R$180,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Cleiton     | Trabalho  | CleitonHernandes@gmail.com | C        | Desenvolvedor Pleno             | 100%          | R$80,00/hora  | R$120,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Elenice     | Trabalho  | elen@gmail.com             | E        | Desenvolvedora Junior           | 100%          | R$34,00/hora  | R$51,00/hora         | R$0,00        | Rateado     | Padrão          |
+| Fábio Wnuk  | Trabalho  | fabio@gmail.com            | F        | Gerende de Projetos             | 100%          | R$90,00/hora  | R$135,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Miguel      | Trabalho  | migs@gmail.com             | M        | Analista de Requisitos Chefe    | 100%          | R$80,00/hora  | R$120,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Rúbens      | Trabalho  | rusbe@gmail.com            | R        | Analista de Desenvolvimento     | 100%          | R$10,00/hora  | R$15,00/hora         | R$0,00        | Rateado     | Padrão          |
+| Jean        | Trabalho  | jean@hotmail.com           | J        | Líder de QA                     | 100%          | R$71,00/hora  | R$105,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Mariana     | Trabalho  | mari@gmail.com             | M        | Administradora                  | 100%          | R$60,00/hora  | R$90,00/hora         | R$0,00        | Rateado     | Padrão          |
+| Vicente     | Trabalho  | vicent@gmail.com           | V        | Instalador                      | 100%          | R$15,00/hora  | R$22,50/hora         | R$0,00        | Rateado     | Padrão          |
+| Geraldo     | Trabalho  | gege@gmail.com             | G        | Designer Freelancer             | 100%          | R$80,00/hora  | R$120,00/hora        | R$0,00        | Rateado     | Padrão          |
+| Melinda     | Trabalho  | mamacela@gmail.com         | M        | Analista de Requisitos Chefe    | 100%          | R$50,00/hora  | R$75,00/hora         | R$0,00        | Rateado     | Padrão          |
+| Adriana     | Trabalho  | adriana@gmail.com          | A        | Recursos Humanos                | 100%          | R$41,00/hora  | R$61,50/hora         | R$0,00        | Rateado     | Padrão          |
+
+**Itens:**
+Nome: Visual Studio Professional
+Preço: R$200,00
+Grupo: Material de desenvolvimento
+Quantidade: 1
+Gasto Total: R$200,00
+
+Nome: Pacote Office
+Preço: R$150,00
+Grupo: Ferramentas de escritório
+Quantidade: 1
+Gasto Total: R$150,00
+
+Nome: Câmera
+Preço: RS 8.425,60
+Grupo: Ferramenta de serviço
+Quantidade: 5
+Gasto Total: R$42.125,00
+Especificações: 
+Sensor De Imagem 1/1.8″ progressive scan CMOS
+Resolução Máx. 2688 × 1520
+Iluminação Mínima Color: 0.0005 Lux @ (F1.2, AGC ON);
+B/W: 0.0001 Lux @ (F1.2, AGC ON), 0 Lux with IR
+Tempo Do Obturador 1/25 s to 1/100,000 s
+Dia E Noite IR cut filter
+
+Nome: Servidor
+Preço: R$21.519,00
+Grupo: Ferramenta de serviço
+Quantidade: 1
+Gasto Total: R$21.519,00
+Espeficicações:
+Servidor Torre PowerEdge T150
+Processador: Intel® Xeon® E-2378
+Memória: 8GB DDR4 3200MHz
+RAID: C20 com SATA incorporada
+SSD: 1,92TB SATA RI ISE
+HDD: 2TB SATA
+Placa Controladora: BOSS com 2 M.2 Sticks 480GB
+
+Nome: Computador
+Preço: RS 18.790,00
+Grupo: Material de desenvolvimento
+Quantidade: 1
+Gasto Total: RS 18.790,00
+Espeficicações:
+Processador: AMD Ryzen 9 7900X
+Placa Mãe: Asus X670
+Placa de vídeo: NVIDIA GeForce RTX 4070 TI 12GB
+Memória: 32GB DDR5 5200Mhz
+SSD: 1TB NVME SN850
+HDD: 2TB HDD
+Fonte: 1050W Cooler Master GoldC
+
+
 
 # Planos de Gerenciamento
 
@@ -176,17 +241,17 @@
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+| Descrição do Risco                                               | Probabilidade | Impacto  | Risco | Medidas de prevenção (contramedidas)                                            |
+|------------------------------------------------------------------|---------------|----------|-------|---------------------------------------------------------------------------------|
+| O retorno financeiro não cobrir o gasto de manutenção do projeto | Médio         | Alto     | Alto  | Acompanhamento constante do caixa da empresa                                    |
+| Funcionário ser desligado ou pedir para sair                     | Baixo         | Alto     | Médio | Substituir o funcionário ou reorganizar as tarefas                              |
+| Projeto não ser entregue na data limite                          | Baixo         | Baixo    | Baixo | Negociar uma nova data de entrega                                               |
+| Uma queda no sistema da empresa que faça as câmeras saírem do ar | Médio         | Alto     | Alto  | Manutenção semanal dos servidores, troca de peças, segurança contra DDoS        |
+| Epidemia ou pandemia                                             | Baixo         | Médio    | Médio | Exames periódicos dos funcionários, promoção da higienização interna da empresa |
+| Dados sensíveis podem ser cobiçados por pessoas de má intenção   | Baixo         | Alto     | Médio | Criptografia dos dados, chaves de acesso mutável, restrição de permissões       |
+| Ocorrrer um furto das câmeras instaladas no local contratante    | Médio         | Baixo    | Médio | Fortalecimento da estrutura de fixação das câmeras                              |
+| Incêdio no imóvel da empresa                                     | Baixo         | Alto     | Médio | Comprar sensores de fumaça, fazer exames do local periódicamente                |
 
-
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
 
 ## Plano de Aquisição
 
