@@ -140,6 +140,7 @@
 | Adriana     | Trabalho  | adriana@gmail.com          | A        | Recursos Humanos                | 100%          | R$41,00/hora  | R$61,50/hora         | R$0,00        | Rateado     | Padrão          |
 
 **Itens:**
+```
 Nome: Visual Studio Professional
 Preço: R$200,00
 Grupo: Material de desenvolvimento
@@ -192,6 +193,7 @@ Memória: 32GB DDR5 5200Mhz
 SSD: 1TB NVME SN850
 HDD: 2TB HDD
 Fonte: 1050W Cooler Master GoldC
+```
 
 
 
