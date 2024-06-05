@@ -120,7 +120,7 @@
 | Marco: fim do encerramento                    | 0,5 dia   | 04/06/2024 08:00 | 04/06/2024 13:00 | 34 |      33       |
 
 
-# Orçamento do Projetos.
+# Orçamento do Projeto.
 
 **Salários:**
 
