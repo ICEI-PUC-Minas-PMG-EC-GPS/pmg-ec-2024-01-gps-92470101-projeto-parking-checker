@@ -75,19 +75,37 @@
 
 ## Diagrama de Classes
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
-
-> O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
-> O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e contínua do software.
->
-> **Diagrama de Classes:**
-> Desenvolva um diagrama de classes para o sistema proposto.
-> Caso a solução fique muito grande, divida o diagrama por módulos ou serviços.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
->
-> **Exemplo de diagrama de Classes**:
-> ![Exemplo de diagrama de Classes](images/class-diagram.png)
-
+Classes utilizadas:
+- ### Empresa: Classe responsável por manipular e controlar os dados da empresa cadastrada;
+  - Reaiza a validação de clientes cadastrados
+  - Cadastra novas câmeras à empresa
+  - Valida câmeras cadastradas
+  - Atualiza dados da empresa
+  - Deleta empresa
+- ### Cliente: Classe responsável por manipular e controlar os dados do cliente;
+  - Cadastra um veículo para algum cliente
+  - Atualiza os dados dos clientes
+  - deleta os clientes
+- ### Veiculo: Classe responsável por manipular e controlar os dados do veículo;
+  - Consulta o veículo no detran
+  - Deleta o veículo
+- ### Funcionario: Classe responsável por manipular e controlar os dados dos funcionários;
+  - Acessa aos controles da câmera
+  - Acessa os dados de Logs da empresa
+- ### CameraController: Classe responsável por manipular e controlar as câmeras;
+  - Analisa e valida se o veículo está cadastrado no estacionamento
+  - Analisa e valida de o motorista está cadastrado no estacionamento
+  - Notifica para os clientes quais vagas estão disponíveis
+  - Registra os dados dos processos realizado
+  - Conecta e desconecta do banco de dados das empresa
+  - Atualiza os dados das cameras
+  - Deleta uma câmera
+- ### VagaController: Classe responsável por manipular e controlar os dados das vagas;
+  - Pesquisa e atualiza o status de disponibilidade de uma vaga
+  - Atualiza os dados de cadastro de uma vaga
+  - Deleta vaga
+    
+![Imagem do WhatsApp de 2024-06-04 à(s) 21 34 25_b6372282](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/bc3d8c3c-abf4-4184-ad11-081f4af2bf0f)
 
 ## Persistência dos Dados
 
