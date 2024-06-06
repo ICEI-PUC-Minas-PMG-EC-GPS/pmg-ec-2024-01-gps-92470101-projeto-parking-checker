@@ -67,10 +67,9 @@
 > Explique e justifique a arquitetura escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
 > 
 > **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
->
-> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
-> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
+
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/971e7745-9866-4bf7-a1fe-39a550c93ae0)
+
 
 
 ## Diagrama de Classes
