@@ -109,23 +109,9 @@ Classes utilizadas:
 
 ## Persistência dos Dados
 
-......  COLOQUE AQUI O SEU TEXTO E O MODELOS DE DADOS .......
+Tabelas do banco de dados:
+- ### Empresa
+> ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/13e6431c-0283-4c82-9e6a-5807756494e5)
 
-> **Banco de Dados Relacional:**
-> Um diagrama relacional é uma representação gráfica que ilustra as tabelas e as relações entre elas em um banco de dados relacional. 
-> Ele descreve a estrutura do banco de dados, destacando as entidades, seus atributos e as conexões estabelecidas.
->
-> **Banco de Dados No-SQL:**
-> Bancos de dados NoSQL representam uma categoria diversificada de sistemas de gerenciamento de dados que se afastam do modelo relacional tradicional. 
-> Ao contrário dos bancos de dados SQL, os NoSQL adotam abordagens mais flexíveis e escaláveis para armazenar e recuperar dados. 
-> Esses sistemas são particularmente eficazes em lidar com grandes volumes de dados não estruturados ou semiestruturados, como documentos, grafos, pares chave-valor e famílias de colunas.
-> 
-> **Diagrama de Banco de Dados:**
-> Desenvolva um diagrama de banco de dados para o sistema proposto.
-> Indique como as informações serão persistitdas, incluindo nome do banco de dados (ou base de dados) e uso de frameworks de persistências, caso utilizados.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
->
-> **Exemplo de diagrama de Banco de Dados**:
-> ![Exemplo de diagrama de Banco de Dados](images/database-diagram.png)
 
 
