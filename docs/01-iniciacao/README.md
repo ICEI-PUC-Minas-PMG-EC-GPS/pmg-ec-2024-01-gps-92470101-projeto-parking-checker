@@ -175,9 +175,26 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+| RF-001 | Permitir que o usuário cadastre tarefas           | ALTA |
+| RF-002 | Emitir um relatório de tarefas no mês             | MÉDIA|
+| RF-003 | Integrar câmeras de alta resolução ao sistema     | ALTA |
+| RF-004 | Implementar reconhecimento de placas de veículos  | ALTA |
+| RF-005 | Identificar vagas livres através de IA            | ALTA |
+| RF-006 | Analisar padrões de ocupação do estacionamento    | ALTA |
+| RF-007 | Gerar relatórios gerenciais com dados do sistema  | MÉDIA|
+| RF-008 | Fornecer informações sobre vagas disponíveis      | ALTA |
+| RF-009 | Registrar horários de pico no estacionamento      | ALTA |
+| RF-010 | Manter histórico de ocupação do estacionamento    | ALTA |
+| RF-011 | Cadastro de condutores no sistema                 | ALTA |
+| RF-012 | Integração com órgãos de segurança pública        | ALTA |
+| RF-013 | Implementar protocolos de segurança robustos      | ALTA |
+| RF-014 | Agilizar o fluxo de veículos no estacionamento    | ALTA |
+| RF-015 | Reduzir tempo de busca por vagas                  | ALTA |
+| RF-016 | Melhorar organização do estacionamento            | ALTA |
+| RF-017 | Aumentar facilidade de encontrar vagas            | ALTA |
+| RF-018 | Diminuir tempo de espera dos clientes             | ALTA |
+| RF-019 | Contribuir para a segurança dos frequentadores    | ALTA |
+| RF-020 | Fornecer imagens de alta qualidade                | ALTA |
 ### Requisitos Não Funcionais
 
 ......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
@@ -186,9 +203,11 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
+| RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA |
+| RNF-002| Processar requisições do usuário em no máximo 3 segundos        | BAIXA |
+| RNF-003| Garantir compatibilidade com diferentes navegadores             | MÉDIA |
+| RNF-004| Assegurar acesso seguro ao sistema através de autenticação      | ALTA |
+| RNF-005| Manter a integridade dos dados mesmo em picos de demanda        | ALTA |
 
 ### Restrições
 
@@ -198,9 +217,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+| RE-001 | Permitir que o usuário cadastre tarefas        | ALTA |
+| RE-002 | Emitir um relatório de tarefas no mês          | MÉDIA |
+| RE-003 | Disponibilidade de recursos para implementação | ALTA |
+| RE-004 | Cumprir prazos estabelecidos pelo cronograma   | ALTA |
+| RE-005 | Conformidade com regulamentações de proteção   | ALTA |
 # Partes Interessadas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
