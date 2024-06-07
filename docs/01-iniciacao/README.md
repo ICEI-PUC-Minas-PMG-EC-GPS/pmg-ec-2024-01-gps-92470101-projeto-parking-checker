@@ -348,14 +348,13 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
+| Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/6/views/1| Centralização e organização do projeto no próprio repositório. |
+| Protótipo Interativo  | Canva               |https://www.canva.com/design/DAGHGR1vxZw/h-ZruIA8U47gkG5ongcf0g/edit?utm_content=DAGHGR1vxZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton|               |
+| Documentos Textuais   | Word ,Libre Office, Wbs  | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento/artefatos          |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| EAP / WBS             |Github              |https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento#estrutura-anal%C3%ADtica-do-projeto-eap |Auxilia na produção de metas e objetivos eficientes |
+| Cronograma do Projeto |Project Libre | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/blob/master/docs/02-planejamento/artefatos/cronograma_orcamento.pod | Organização financeira e adminsitrativa  |
+| Matriz RACI           | GitHub  | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento#matriz-de-responsabilidades-raci| Propósito de distribuir as funções  |
 
 # Documentos
 
