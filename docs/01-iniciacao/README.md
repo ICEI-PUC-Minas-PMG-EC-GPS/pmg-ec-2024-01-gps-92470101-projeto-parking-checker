@@ -33,8 +33,6 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 O que motivou a criação do projeto foi um problema que é recorrente em estabelecimentos , sejam eles públicos ou privados, é a dificuldade do controle de fluxo de veículos nos estacionamentos,  tal carência de monitoramento pode resultar
 em complicações para clientes , como a perca de tempo para estacionar, tempo o qual o cliente poderia estar realizando outras atividades, resultando em prejuízos diretos a empresas também, caso elas queiram que o cliente
 passe tempo consumindo.
@@ -282,8 +280,6 @@ Sindicati de Trabalhadores de Segurança - Influência: Média - Resistente
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 João Pedro Oliveira Diorio -> Project Owner: 
   Representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto.
 
@@ -326,13 +322,13 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 
 ## Declaração de Escopo
 
-> Você deve preencher o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+[Declaracao de escopo.pdf](https://github.com/user-attachments/files/15692880/Declaracao.de.escopo.pdf)
+
 
 ## Registro de Partes Interessadas
 
-> Você deve preencher o seguinte documento:
-- [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
+[Partes Interessadas.xlsx](https://github.com/user-attachments/files/15692920/Partes.Interessadas.xlsx)
+
 
 ## Termo de Abertura do Projeto (TAP)
 
@@ -342,5 +338,5 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 > Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
 > Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
 
-> Você deve preencher o seguinte documento:
-> - [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
+[TAP.pdf](https://github.com/user-attachments/files/15692978/TAP.pdf)
+
