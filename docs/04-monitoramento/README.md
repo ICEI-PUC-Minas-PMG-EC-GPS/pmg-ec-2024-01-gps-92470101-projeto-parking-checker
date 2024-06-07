@@ -98,7 +98,8 @@
 > Se a linha de trabalho concluído se mantém abaixo da linha de escopo total, pode indicar que o projeto está atrasado.
 > Por outro lado, se a linha de trabalho concluído se mantém acima da linha de escopo total, isto pode indicar que o projeto está adiantado em relação ao planejado.
 
-![Burn-up](images/burn-up.png)
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/dd633ffd-d9a7-480a-8adb-a17c861280f3)
+
 
 ## Relatório de tarefas concluídas
 
