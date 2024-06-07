@@ -352,9 +352,9 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 | Protótipo Interativo  | Canva               |https://www.canva.com/design/DAGHGR1vxZw/h-ZruIA8U47gkG5ongcf0g/edit?utm_content=DAGHGR1vxZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton|               |
 | Documentos Textuais   | Word ,Libre Office, Wbs  | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento/artefatos          |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             |Github              |https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento#estrutura-anal%C3%ADtica-do-projeto-eap |Auxilia na produção de metas e objetivos eficientes |
+| EAP / WBS             |Github             | [EAP.pdf](https://github.com/user-attachments/files/15744686/EAP.pdf)  |Auxilia na produção de metas e objetivos eficientes |
 | Cronograma do Projeto |Project Libre | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/blob/master/docs/02-planejamento/artefatos/cronograma_orcamento.pod | Organização financeira e adminsitrativa  |
-| Matriz RACI           | GitHub  | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento#matriz-de-responsabilidades-raci| Propósito de distribuir as funções  |
+| Matriz RACI           | GitHub  |[Matriz.RACI.pdf](https://github.com/user-attachments/files/15744683/Matriz.RACI.pdf) | Propósito de distribuir as funções  |
 
 # Documentos
 
