@@ -40,29 +40,30 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/971e7745-9866-4bf7-a1fe-39a550c93ae0)
 
-1.	Empresa Cliente (Pessoa Jurídica):
-o	Representa a empresa que é proprietária ou responsável pelo estacionamento.
-o	Possui conexão direta com o Sistema de Câmeras e o Parking Checker App.
-2.	Sistema de Câmeras (Software System):
-o	Responsável pela configuração, controle e análise das câmeras de monitoramento do estacionamento.
-o	Está conectado ao Banco de Dados para armazenamento de imagens e dados coletados.
-o	Interage com o Parking Checker App para fornecer informações em tempo real sobre o estacionamento.
-3.	Parking Checker App (Software System):
-o	Sistema móvel ou web utilizado para análise de estacionamentos e motoristas.
-o	Possui uma conexão direta com o Sistema de Câmeras para receber dados e imagens em tempo real.
-o	Conectado ao Banco de Dados para armazenar informações sobre motoristas, veículos, e análises de ocupação do estacionamento.
-4.	Banco de Dados (Container: Oracle Database 12c):
-o	Armazena dados relacionados aos motoristas, veículos, configurações do sistema de câmeras, e análises do estacionamento.
-o	É acessado pelo Sistema de Câmeras para armazenar dados das câmeras e configurações.
-o	O Parking Checker App também utiliza o Banco de Dados para armazenar informações sobre motoristas, veículos e análises de ocupação.
-5.	Motorista Cliente (Pessoa Física):
-o	Representa o usuário final que utiliza o estacionamento.
-o	Utiliza o Parking Checker App para verificar informações sobre vagas disponíveis, fazer reservas, e receber notificações sobre seu veículo.
-Fluxo de Informações:
-1.	O Sistema de Câmeras captura imagens do estacionamento e envia para o Banco de Dados para armazenamento.
-2.	O Parking Checker App acessa o Banco de Dados para obter dados sobre ocupação, vagas disponíveis, e informações sobre motoristas.
-3.	O Parking Checker App também se comunica com o Sistema de Câmeras para receber atualizações em tempo real sobre o estacionamento.
-4.	O Motorista Cliente utiliza o Parking Checker App para interagir com o sistema, visualizar informações e tomar decisões relacionadas ao estacionamento.
+  ### Empresa Cliente (Pessoa Jurídica):
+  -	Representa a empresa que é proprietária ou responsável pelo estacionamento.
+  -	Possui conexão direta com o Sistema de Câmeras e o Parking Checker App.
+  ### Sistema de Câmeras (Software System):
+  -	Responsável pela configuração, controle e análise das câmeras de monitoramento do estacionamento.
+  -	Está conectado ao Banco de Dados para armazenamento de imagens e dados coletados.
+  -	Interage com o Parking Checker App para fornecer informações em tempo real sobre o estacionamento.
+  ### Parking Checker App (Software System):
+  -	Sistema móvel ou web utilizado para análise de estacionamentos e motoristas.
+  -	Possui uma conexão direta com o Sistema de Câmeras para receber dados e imagens em tempo real.
+  -	Conectado ao Banco de Dados para armazenar informações sobre motoristas, veículos, e análises de ocupação do estacionamento.
+### Banco de Dados (Container: Oracle Database 12c):
+  -	Armazena dados relacionados aos motoristas, veículos, configurações do sistema de câmeras, e análises do estacionamento.
+  -	É acessado pelo Sistema de Câmeras para armazenar dados das câmeras e configurações.
+  -	O Parking Checker App também utiliza o Banco de Dados para armazenar informações sobre motoristas, veículos e análises de ocupação.
+### Motorista Cliente (Pessoa Física):
+  -	Representa o usuário final que utiliza o estacionamento.
+  -	Utiliza o Parking Checker App para verificar informações sobre vagas disponíveis, fazer reservas, e receber notificações sobre seu veículo.
+    
+### Fluxo de Informações:
+  1.	O Sistema de Câmeras captura imagens do estacionamento e envia para o Banco de Dados para armazenamento.
+  2.	O Parking Checker App acessa o Banco de Dados para obter dados sobre ocupação, vagas disponíveis, e informações sobre motoristas.
+  3.	O Parking Checker App também se comunica com o Sistema de Câmeras para receber atualizações em tempo real sobre o estacionamento.
+  4.	O Motorista Cliente utiliza o Parking Checker App para interagir com o sistema, visualizar informações e tomar decisões relacionadas ao estacionamento.
 
 ## Diagrama de Classes
 
