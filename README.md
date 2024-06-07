@@ -41,7 +41,7 @@ Fases do Gerenciamento do Projeto:
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
+[![Imagem do Trabalho]("C:\Users\jeang\Pictures\Screenshots\Captura de tela 2024-06-07 182934.png")](https://youtu.be/W5-cYHIK68g)
 
 ## Informações Adicionais
 
