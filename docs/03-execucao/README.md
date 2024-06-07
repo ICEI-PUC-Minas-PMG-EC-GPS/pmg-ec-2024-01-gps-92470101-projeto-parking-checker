@@ -225,20 +225,20 @@ Classes utilizadas:
     - A tabela "Clientes" está relacionada à tabela "Empresa" através do campo EmpresaId, que é uma chave estrangeira referenciando o campo id na tabela "Empresa". Isso estabelece uma relação de um para muitos, onde uma empresa pode ter múltiplos clientes associados a ela.
 
 - ### Tabela "Veiculos":
-    -	id (int, NOT NULL) - Chave Primária (PK)
-      -	Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
-    -	clienteId (int, NOT NULL) - Chave Estrangeira (FK1)
-      -	Um identificador que referencia a tabela "Clientes". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Clientes".
-    -	Placa (char(7), NOT NULL)
-      -	Um campo de texto que armazena a placa do veículo. Este campo pode conter até 7 caracteres e não pode ser nulo.
-    -	Cor (char(10), NOT NULL)
-      -	Um campo de texto que armazena a cor do veículo. Este campo pode conter até 10 caracteres e não pode ser nulo.
-    -	Modelo (char(30), NOT NULL)
-      -	Um campo de texto que armazena o modelo do veículo. Este campo pode conter até 30 caracteres e não pode ser nulo.
-    -	inclusoDataHora (date, NOT NULL)
-      -	Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
-    -	AlteradoDataHora (date, NOT NULL)
-      - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+  -	id (int, NOT NULL) - Chave Primária (PK)
+    -	Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  -	clienteId (int, NOT NULL) - Chave Estrangeira (FK1)
+    -	Um identificador que referencia a tabela "Clientes". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Clientes".
+  -	Placa (char(7), NOT NULL)
+    -	Um campo de texto que armazena a placa do veículo. Este campo pode conter até 7 caracteres e não pode ser nulo.
+  -	Cor (char(10), NOT NULL)
+    -	Um campo de texto que armazena a cor do veículo. Este campo pode conter até 10 caracteres e não pode ser nulo.
+  -	Modelo (char(30), NOT NULL)
+    -	Um campo de texto que armazena o modelo do veículo. Este campo pode conter até 30 caracteres e não pode ser nulo.
+  -	inclusoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+  -	AlteradoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
   #### Explicação do Funcionamento:
     -	**Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada veículo registrado.
     -	**Chave Estrangeira (FK):** O campo clienteId serve como uma chave estrangeira, que cria um relacionamento com a tabela "Clientes". Esse campo garante que cada veículo esteja associado a um cliente específico. A integridade referencial é mantida, de modo que não se pode adicionar um veículo com um clienteId que não exista na tabela "Clientes".
