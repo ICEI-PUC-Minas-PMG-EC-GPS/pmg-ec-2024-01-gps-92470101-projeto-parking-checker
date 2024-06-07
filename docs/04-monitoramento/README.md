@@ -66,7 +66,7 @@
 
 ......  ATUALIZE AS IMAGENS MENSALMENTE ......
 
-> Os insights do repositório indicam a quantidade de[Template Ata Reuniao 15-03.pdf](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/files/14621639/Template.Ata.Reuniao.15-03.pdf)
+> Os insights do repositório indicam a quantidade de
  commits realizados, quantidade de tarefas fechadas, problemas levantados no software, entre outras métricas.
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
