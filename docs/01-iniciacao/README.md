@@ -349,10 +349,8 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/6/views/1| Centralização e organização do projeto no próprio repositório. |
-| Protótipo Interativo  | Canva               |https://www.canva.com/design/DAGHGR1vxZw/h-ZruIA8U47gkG5ongcf0g/edit?utm_content=DAGHGR1vxZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton|               |
-| Produtos Comprados   | Arquivo PDF |                     [Solicitacao.de.Compra.pdf](https://github.com/user-attachments/files/15744729/Solicitacao.de.Compra.pdf)
-    |               |
-
+| Protótipo Interativo  | Canva               |https://www.canva.com/design/DAGHGR1vxZw/h-ZruIA8U47gkG5ongcf0g/edit?utm_content=DAGHGR1vxZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton|               
+| Produtos Comprados   | Arquivo PDF | [Solicitacao.de.Compra.pdf](https://github.com/user-attachments/files/15744729/Solicitacao.de.Compra.pdf)|               |
 | EAP / WBS             |Github             | [EAP.pdf](https://github.com/user-attachments/files/15744686/EAP.pdf)  |Auxilia na produção de metas e objetivos eficientes |
 | Plano de Qualidade       |Arquivo PDF             |  [Plano.de.Qualidade.pdf](https://github.com/user-attachments/files/15744712/Plano.de.Qualidade.pdf) | Garantir um produto eficiente e sem bugs | 
 | Plano de Risco       |Arquivo PDF          | [Lista.de.Riscos.pdf](https://github.com/user-attachments/files/15744715/Lista.de.Riscos.pdf)   | Classificar os riscos e seus impactos  | 
