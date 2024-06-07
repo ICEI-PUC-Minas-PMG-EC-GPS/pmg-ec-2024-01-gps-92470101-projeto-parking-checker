@@ -6,14 +6,6 @@
 > Além disso, o monitoramento constante é essencial para garantir que o projeto esteja avançando conforme o planejado, e ajustes são feitos conforme necessário. 
 > A fase de execução é o momento em que o trabalho tangível é realizado, e a eficácia nessa etapa contribui diretamente para o sucesso geral do projeto.
 
-```diff
-- Esta seção irá simular a execução do projeto. 
-- Devido às características da disciplina, não será possível implementar o software (tempo insuficiente).
-- Com isso, apenas simularemos a construção do sistema nesta etapa.
-- Para isso, serão criados protótipos navegáveis, representando aquilo que seria desenvolvido em termos de interface.
-- Diagramas arquiteturais, de banco de dados e de classe representarão a modelagem e implementação do código-fonte.
-```
-
 # Estrutura do Documento
 
 - [Fase de Execução](#execução)
@@ -44,21 +36,9 @@
 
 # Modelagem da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> A modelagem de software envolve a criação de representações abstratas que capturam a estrutura, comportamento e interações do software a ser desenvolvido. 
-> Esses modelos servem como guias visuais que auxiliam na compreensão e comunicação entre os membros da equipe de desenvolvimento. 
-> A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
-> Essa abordagem facilita a identificação precoce de requisitos e a detecção de inconsistências. 
-> Além disso, a modelagem contribui para a documentação eficaz, permitindo uma compreensão mais abrangente do software antes mesmo de sua implementação. 
-
-
 ## Arquitetura da solução
 
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/971e7745-9866-4bf7-a1fe-39a550c93ae0)
-
-
 
 ## Diagrama de Classes
 
