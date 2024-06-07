@@ -169,8 +169,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
-
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -197,8 +195,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 | RF-020 | Fornecer imagens de alta qualidade                | ALTA |
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
 |ID     | Descrição do Requisito                                            |Prioridade |
@@ -211,8 +207,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
 A tabela a seguir apresenta as restrições do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -223,8 +217,6 @@ A tabela a seguir apresenta as restrições do projeto.
 | RE-004 | Cumprir prazos estabelecidos pelo cronograma   | ALTA |
 | RE-005 | Conformidade com regulamentações de proteção   | ALTA |
 # Partes Interessadas
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 **Equipe:**
 
@@ -285,19 +277,48 @@ Sindicati de Trabalhadores de Segurança - Influência: Média - Resistente
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O GitHub Projects é uma ferramenta integrada ao GitHub que permite o gerenciamento de projetos de software utilizando metodologias ágeis e de Kanban. Ele facilita a organização, rastreamento e planejamento do trabalho de uma equipe dentro do repositório de código. Aqui está uma visão geral de como o GitHub Projects funciona e como ele pode ser utilizado:
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Estrutura do GitHub Projects
+
+Quadros de Projetos (Project Boards):
+
+Os quadros de projetos são onde você pode visualizar e organizar suas tarefas. Cada quadro pode ser personalizado com colunas que representam diferentes estados de tarefas, como "A Fazer", "Em Progresso" e "Concluído".
+Você pode criar múltiplos quadros de projetos para diferentes aspectos do seu trabalho ou diferentes equipes.
+
+Cards:
+
+Dentro dos quadros, as tarefas são representadas por cards. Cada card pode representar um problema (issue), um pull request ou uma nota.
+Os cards podem ser movidos entre colunas para refletir o status atual das tarefas.
+
+Colunas:
+
+As colunas ajudam a categorizar e organizar os cards. Você pode adicionar quantas colunas quiser e nomeá-las conforme necessário.
+Exemplos de colunas incluem "Backlog", "Em Progresso", "Revisão" e "Concluído".
+Funcionalidades Principais
+Issues e Pull Requests:
+
+Issues (problemas) são usadas para relatar bugs, solicitar novos recursos ou discutir tópicos em aberto. Elas podem ser adicionadas aos quadros como cards.
+Pull requests são propostas de mudanças no código e também podem ser representadas como cards nos quadros de projetos.
+
+Automação:
+
+GitHub Projects suporta automações que permitem ações automáticas como mover cards entre colunas quando um pull request é mesclado ou quando uma issue é fechada.
+Automação ajuda a reduzir o trabalho manual de manter os quadros atualizados.
+Vinculação de Issues e Pull Requests:
+
+Você pode vincular issues e pull requests diretamente aos cards para rastrear o progresso e garantir que todas as tarefas estão sendo monitoradas.
+Isso facilita a visualização de quais issues estão sendo resolvidas por quais pull requests.
+
+Notas:
+
+Além de issues e pull requests, você pode adicionar notas aos quadros de projetos. Notas são úteis para anotar ideias, lembretes ou qualquer outro tipo de informação relevante.
+Filtros e Visualizações:
+
+Você pode filtrar os cards nos quadros por critérios como etiquetas, responsáveis, milestones e mais.
+Isso permite uma visualização focada e personalizada do progresso do projeto.
+
+O GitHub Projects é uma ferramenta poderosa para gerenciar projetos de desenvolvimento de software, proporcionando uma visão clara do progresso e facilitando a colaboração entre membros da equipe.
 
 ## Divisão de Papéis
 
