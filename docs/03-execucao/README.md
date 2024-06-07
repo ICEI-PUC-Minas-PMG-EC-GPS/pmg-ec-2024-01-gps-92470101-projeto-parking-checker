@@ -76,9 +76,175 @@ Classes utilizadas:
 
 ## Persistência dos Dados
 
-Tabelas do banco de dados:
-- ### Empresa
 > ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/109636610/13e6431c-0283-4c82-9e6a-5807756494e5)
 
+- ### Tabela "Camera":
+  - id (int, NOT NULL) - Chave Primária (PK)
+    - Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  - Empresaid (int, NOT NULL) - Chave Estrangeira (FK1)
+    - Um identificador que referencia uma tabela relacionada (provavelmente a tabela "Empresa"). Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela referenciada.
+  - Tipo (char(50), NOT NULL)
+    - Um campo de texto que descreve o tipo da câmera. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - Localização (char(11), NOT NULL)
+    - Um campo de texto que especifica a localização da câmera. Este campo pode conter até 11 caracteres e não pode ser nulo.
+  - IP (char(13), NOT NULL)
+    - Um campo de texto que armazena o endereço IP da câmera. Este campo pode conter até 13 caracteres e não pode ser nulo.
+  - senha (char(50), NOT NULL)
+    - Um campo de texto que armazena a senha associada à câmera. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - inclusoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+   -AlteradoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+    
+  #### Explicação do Funcionamento:
+  - **Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada câmera registrada.
+  - **Chave Estrangeira (FK):** O campo Empresaid serve como uma chave estrangeira, que cria um relacionamento com a tabela "Empresa". Esse campo garante que cada câmera esteja associada a uma empresa específica. A integridade referencial é mantida, de modo que não se pode adicionar uma câmera com um Empresaid que não exista na tabela "Empresa".
+  - **Campos de Dados:**
+    - Tipo, Localização, IP e senha são campos que armazenam informações específicas sobre a câmera. Cada um desses campos possui restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+    - inclusoDataHora e AlteradoDataHora são campos de data que registram quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
 
+- ### Tabela "Empresa":
+  - id (int, NOT NULL) - Chave Primária (PK)
+    - Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  - CNPJ (char(50), NOT NULL)
+    - Um campo de texto que armazena o Cadastro Nacional da Pessoa Jurídica (CNPJ) da empresa. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - Endereço (char(50), NOT NULL)
+    - Um campo de texto que armazena o endereço da empresa. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - NomeFicticio (char(50), NOT NULL)
+    - Um campo de texto que armazena o nome fictício (nome comercial) da empresa. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - Contato (char(13), NOT NULL)
+    - Um campo de texto que armazena o número de contato da empresa. Este campo pode conter até 13 caracteres e não pode ser nulo.
+  - Email (char(50), NOT NULL)
+    - Um campo de texto que armazena o endereço de e-mail da empresa. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - NumVagas (int)
+    - Um campo que armazena o número de vagas disponíveis na empresa. Este campo pode conter valores inteiros e pode ser nulo.
+  - NumCameras (int)
+    - Um campo que armazena o número de câmeras associadas à empresa. Este campo pode conter valores inteiros e pode ser nulo.
+  - isATIVA (bool)
+    - Um campo booleano que indica se a empresa está ativa ou não. Este campo pode ser verdadeiro (true) ou falso (false).
+  - inclusoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+  - alteradoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
 
+  #### Explicação do Funcionamento:
+  - **Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada empresa registrada.
+  - **Campos de Dados:**
+    - CNPJ, Endereço, NomeFicticio, Contato, e Email são campos que armazenam informações específicas sobre a empresa. Esses campos possuem restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+    - NumVagas e NumCameras são campos opcionais que podem ser nulos e armazenam informações adicionais sobre a empresa.
+    - isATIVA é um campo booleano que indica se a empresa está ativa. Ele é útil para filtragem de registros ativos.
+    - inclusoDataHora e alteradoDataHora são campos de data que registram quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
+  
+  #### Ligação com a Tabela "Camera":
+  - A tabela "Empresa" está relacionada à tabela "Camera" através do campo Empresaid na tabela "Camera", que é uma chave estrangeira referenciando o campo id na tabela "Empresa". Isso estabelece uma relação de um para muitos, onde uma empresa pode ter múltiplas câmeras associadas a ela.
+
+- ### Tabela "Vagas":
+  - id (int, NOT NULL) - Chave Primária (PK)
+    - Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  -	empresaId (int, NOT NULL) - Chave Estrangeira (FK1)
+    - Um identificador que referencia a tabela "Empresa". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Empresa".
+  -	Numero (int, NOT NULL)
+    - Um campo que armazena o número da vaga. Este campo não pode ser nulo e deve conter valores inteiros.
+  -	Localizacao (char(20), NOT NULL)
+    - Um campo de texto que especifica a localização da vaga. Este campo pode conter até 20 caracteres e não pode ser nulo.
+  -	Tipo (char(10), NOT NULL)
+    - Um campo de texto que descreve o tipo da vaga. Este campo pode conter até 10 caracteres e não pode ser nulo.
+  -	InclusoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+  -	AlteradoDataHora (date, NOT NULL)
+    - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+  #### Explicação do Funcionamento:
+    - **Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada vaga registrada.
+    - **Chave Estrangeira (FK):** O campo empresaId serve como uma chave estrangeira, que cria um relacionamento com a tabela "Empresa". Esse campo garante que cada vaga esteja associada a uma empresa específica. A integridade referencial é mantida, de modo que não se pode adicionar uma vaga com um empresaId que não exista na tabela "Empresa".
+    - **Campos de Dados:**
+      - Numero, Localizacao, e Tipo são campos que armazenam informações específicas sobre a vaga. Cada um desses campos possui restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+      - InclusoDataHora e AlteradoDataHora são campos de data que registram quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
+  #### Ligação com a Tabela "Empresa"
+    - A tabela "Vagas" está relacionada à tabela "Empresa" através do campo empresaId, que é uma chave estrangeira referenciando o campo id na tabela "Empresa". Isso estabelece uma relação de um para muitos, onde uma empresa pode ter múltiplas vagas associadas a ela.
+
+- ### Tabela "Funcionários":
+  - id (int, NOT NULL) - Chave Primária (PK)
+    - Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  - empresaid (int, NOT NULL) - Chave Estrangeira (FK1)
+    - Um identificador que referencia a tabela "Empresa". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Empresa".
+  - Cargo (char(50), NOT NULL)
+    - Um campo de texto que descreve o cargo do funcionário. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - Nome (char(50), NOT NULL)
+    - Um campo de texto que armazena o nome do funcionário. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - CPF (char(11), NOT NULL)
+    -	Um campo de texto que armazena o CPF (Cadastro de Pessoas Físicas) do funcionário. Este campo pode conter até 11 caracteres e não pode ser nulo.
+  - Contato (char(13), NOT NULL)
+    -	Um campo de texto que armazena o número de contato do funcionário. Este campo pode conter até 13 caracteres e não pode ser nulo.
+  -	E-mail (char(50), NOT NULL)
+    -	Um campo de texto que armazena o endereço de e-mail do funcionário. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  - ContratadoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora em que o funcionário foi contratado. Este campo não pode ser nulo.
+  -	InclusoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+  - AlteradoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+  - Salario (int, NOT NULL)
+    -	Um campo que armazena o salário do funcionário. Este campo não pode ser nulo e deve conter valores inteiros.
+
+  #### Explicação do Funcionamento:
+    - **Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada funcionário registrado.
+    - **Chave Estrangeira (FK):** O campo empresaid serve como uma chave estrangeira, que cria um relacionamento com a tabela "Empresa". Esse campo garante que cada funcionário esteja associado a uma empresa específica. A integridade referencial é mantida, de modo que não se pode adicionar um funcionário com um empresaid que não exista na tabela "Empresa".
+    - **Campos de Dados:**
+      - Cargo, Nome, CPF, Contato, e E-mail são campos que armazenam informações específicas sobre o funcionário. Cada um desses campos possui restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+      - ContratadoDataHora, InclusoDataHora, e AlteradoDataHora são campos de data que registram quando o funcionário foi contratado, quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
+      - Salario é um campo que armazena o valor do salário do funcionário. Este campo deve conter valores inteiros e não pode ser nulo.
+  
+  #### Ligação com a Tabela "Empresa"
+  - A tabela "Funcionários" está relacionada à tabela "Empresa" através do campo empresaid, que é uma chave estrangeira referenciando o campo id na tabela "Empresa". Isso estabelece uma relação de um para muitos, onde uma empresa pode ter múltiplos funcionários associados a ela.
+
+- ### Tabela "Clientes":
+  -	id (int, NOT NULL) - Chave Primária (PK)
+    -	Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+  -	EmpresaId (int, NOT NULL) - Chave Estrangeira (FK1)
+    -	Um identificador que referencia a tabela "Empresa". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Empresa".
+  -	Nome (char(50), NOT NULL)
+    -	Um campo de texto que armazena o nome do cliente. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  -	CPF (char(11), NOT NULL)
+    -	Um campo de texto que armazena o CPF (Cadastro de Pessoas Físicas) do cliente. Este campo pode conter até 11 caracteres e não pode ser nulo.
+  -	Contato (char(13), NOT NULL)
+    -	Um campo de texto que armazena o número de contato do cliente. Este campo pode conter até 13 caracteres e não pode ser nulo.
+  -	E-mail (char(50), NOT NULL)
+    -	Um campo de texto que armazena o endereço de e-mail do cliente. Este campo pode conter até 50 caracteres e não pode ser nulo.
+  -	InclusoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+  -	AlteradoDataHora (date, NOT NULL)
+    -	Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+  
+  #### Explicação do Funcionamento:
+    -	**Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada cliente registrado.
+    -	**Chave Estrangeira (FK):** O campo EmpresaId serve como uma chave estrangeira, que cria um relacionamento com a tabela "Empresa". Esse campo garante que cada cliente esteja associado a uma empresa específica. A integridade referencial é mantida, de modo que não se pode adicionar um cliente com um EmpresaId que não exista na tabela "Empresa".
+    -	**Campos de Dados:**
+      - Nome, CPF, Contato, e E-mail são campos que armazenam informações específicas sobre o cliente. Cada um desses campos possui restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+      -	InclusoDataHora e AlteradoDataHora são campos de data que registram quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
+  #### Ligação com a Tabela "Empresa"
+    - A tabela "Clientes" está relacionada à tabela "Empresa" através do campo EmpresaId, que é uma chave estrangeira referenciando o campo id na tabela "Empresa". Isso estabelece uma relação de um para muitos, onde uma empresa pode ter múltiplos clientes associados a ela.
+
+- ### Tabela "Veiculos":
+    -	id (int, NOT NULL) - Chave Primária (PK)
+      -	Um identificador único para cada registro na tabela. Este campo não pode ser nulo e deve conter valores inteiros.
+    -	clienteId (int, NOT NULL) - Chave Estrangeira (FK1)
+      -	Um identificador que referencia a tabela "Clientes". Este campo não pode ser nulo e deve conter valores inteiros que correspondem aos valores de uma chave primária na tabela "Clientes".
+    -	Placa (char(7), NOT NULL)
+      -	Um campo de texto que armazena a placa do veículo. Este campo pode conter até 7 caracteres e não pode ser nulo.
+    -	Cor (char(10), NOT NULL)
+      -	Um campo de texto que armazena a cor do veículo. Este campo pode conter até 10 caracteres e não pode ser nulo.
+    -	Modelo (char(30), NOT NULL)
+      -	Um campo de texto que armazena o modelo do veículo. Este campo pode conter até 30 caracteres e não pode ser nulo.
+    -	inclusoDataHora (date, NOT NULL)
+      -	Um campo que registra a data e a hora em que o registro foi inserido na tabela. Este campo não pode ser nulo.
+    -	AlteradoDataHora (date, NOT NULL)
+      - Um campo que registra a data e a hora da última alteração feita no registro. Este campo não pode ser nulo.
+  #### Explicação do Funcionamento:
+    -	**Chave Primária (PK):** O campo id serve como a chave primária, garantindo a unicidade de cada registro na tabela. Ele é usado para identificar de forma exclusiva cada veículo registrado.
+    -	**Chave Estrangeira (FK):** O campo clienteId serve como uma chave estrangeira, que cria um relacionamento com a tabela "Clientes". Esse campo garante que cada veículo esteja associado a um cliente específico. A integridade referencial é mantida, de modo que não se pode adicionar um veículo com um clienteId que não exista na tabela "Clientes".
+    -	**Campos de Dados:**
+      -	Placa, Cor, e Modelo são campos que armazenam informações específicas sobre o veículo. Cada um desses campos possui restrições de tamanho e não podem ser nulos, garantindo que todos os registros tenham essas informações essenciais preenchidas.
+      -	inclusoDataHora e AlteradoDataHora são campos de data que registram quando o registro foi criado e quando foi modificado pela última vez, respectivamente. Esses campos ajudam a manter um histórico de alterações e são úteis para auditorias e controle de versões dos dados.
+  #### Ligação com a Tabela "Clientes":
+    - A tabela "Veiculos" está relacionada à tabela "Clientes" através do campo clienteId, que é uma chave estrangeira referenciando o campo id na tabela "Clientes". Isso estabelece uma relação de um para muitos, onde um cliente pode ter múltiplos veículos associados a ele.
+  
