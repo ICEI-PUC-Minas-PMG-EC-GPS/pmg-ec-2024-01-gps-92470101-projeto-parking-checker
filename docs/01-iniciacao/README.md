@@ -350,11 +350,15 @@ Miguel dos Santos Ferreira Rodrigues -> Analista de Requisitos Líder:
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/6/views/1| Centralização e organização do projeto no próprio repositório. |
 | Protótipo Interativo  | Canva               |https://www.canva.com/design/DAGHGR1vxZw/h-ZruIA8U47gkG5ongcf0g/edit?utm_content=DAGHGR1vxZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton|               |
-| Documentos Textuais   | Word ,Libre Office, Wbs  | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/tree/master/docs/02-planejamento/artefatos          |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
+| Produtos Comprados   | Arquivo PDF |                     [Solicitacao.de.Compra.pdf](https://github.com/user-attachments/files/15744729/Solicitacao.de.Compra.pdf)
+    |               |
+
 | EAP / WBS             |Github             | [EAP.pdf](https://github.com/user-attachments/files/15744686/EAP.pdf)  |Auxilia na produção de metas e objetivos eficientes |
+| Plano de Qualidade       |Arquivo PDF             |  [Plano.de.Qualidade.pdf](https://github.com/user-attachments/files/15744712/Plano.de.Qualidade.pdf) | Garantir um produto eficiente e sem bugs | 
+| Plano de Risco       |Arquivo PDF          | [Lista.de.Riscos.pdf](https://github.com/user-attachments/files/15744715/Lista.de.Riscos.pdf)   | Classificar os riscos e seus impactos  | 
+| Plano Gerenciamento de Comunicações   |Arquivo PDF        | [Plano.de.Comunicacao.pdf](https://github.com/user-attachments/files/15744722/Plano.de.Comunicacao.pdf) | Assegurar uma hierarquia para a comunicação, de forma a melhorar o trabalho em equipe  | 
 | Cronograma do Projeto |Project Libre | https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/blob/master/docs/02-planejamento/artefatos/cronograma_orcamento.pod | Organização financeira e adminsitrativa  |
-| Matriz RACI           | GitHub  |[Matriz.RACI.pdf](https://github.com/user-attachments/files/15744683/Matriz.RACI.pdf) | Propósito de distribuir as funções  |
+| Matriz RACI           | Arquivo PDf   |[Matriz.RACI.pdf](https://github.com/user-attachments/files/15744683/Matriz.RACI.pdf) | Propósito de distribuir as funções  |
 
 # Documentos
 
