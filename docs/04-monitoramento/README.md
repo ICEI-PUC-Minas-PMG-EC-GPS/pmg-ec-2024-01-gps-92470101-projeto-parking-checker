@@ -103,11 +103,6 @@
 
 ## Relatório de tarefas concluídas
 
-......  ATUALIZE A IMAGEM AO FIM DO PROJETO ......
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/f7131490-496a-41a7-9708-087373cb531a)
 
-> O relatório de tarefas concluídas por pessoa é oferece uma visão do desempenho individual dos membros da equipe em relação às atividades atribuídas durante um sprint ou durante o projeto. 
-> Ao detalhar as tarefas concluídas por cada membro da equipe, o relatório permite uma análise mais precisa da distribuição de carga de trabalho, participação na realização das mesmas, identificação de possíveis gargalos ou pessoas que não estão contribuindo de forma adequada.
-> Este relatório poderá ser utilizado para definição de notas individuais aos alunos, diferentes daquelas definidas para o grupo.
-
-![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/21386d99-523f-4506-ab3c-a58803f14996)
 
