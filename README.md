@@ -33,12 +33,5 @@ Fases do Gerenciamento do Projeto:
 
 ## Apresentação do Trabalho
 
-![Capa](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/e42618c5-a0a0-40d0-9314-2bd17cbdbc6a)](https://youtu.be/W5-cYHIK68g)
+![Capa](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-projeto-parking-checker/assets/133118369/e42618c5-a0a0-40d0-9314-2bd17cbdbc6a) Link para o video: https://youtu.be/W5-cYHIK68g
 
-
-## Informações Adicionais
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua aqui informações extra sobre o projeto.
-> Caso não existam informações extras, remova a seção.
