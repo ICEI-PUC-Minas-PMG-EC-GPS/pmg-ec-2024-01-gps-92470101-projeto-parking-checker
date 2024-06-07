@@ -28,15 +28,7 @@
 
 # Auto-avaliação
 
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
-
-> **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
->
-> Nesta seção, cada membro do grupo deve fornecer sua visão individual acerca da disciplina.
-> Indique também as contribuições da disciplina contribuiu para seu crescimento profissional.
-> Avalie seu comprometimento e itens que poderia melhorar.
-> Busque inspiração na filosofia [kaizen](https://pt.wikipedia.org/wiki/Kaizen), para seguir melhorando a cada dia.
-
+Ao refletir sobre a conclusão deste projeto, sentimos um profundo senso de realização e dever cumprido. Ao longo da jornada, enfrentamos inúmeros desafios e dificuldades, desde restrições de recursos até imprevistos que exigiram adaptações rápidas e eficientes. No entanto, com dedicação, trabalho em equipe e resiliência, conseguimos superar esses obstáculos e alcançar os objetivos estabelecidos. Cada membro da equipe demonstrou comprometimento e competência, contribuindo de maneira significativa para o sucesso do projeto. Embora o caminho tenha sido árduo, a experiência adquirida e os resultados obtidos reforçam a importância do esforço conjunto e da persistência. Estou orgulhoso do que realizamos e confiante de que as lições aprendidas fortalecerão nossos futuros empreendimentos.
 
 # Sugestões e Críticas
 
